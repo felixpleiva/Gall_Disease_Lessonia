@@ -1,0 +1,44 @@
+R version 4.1.0 (2021-05-18)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 18362)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.1252  LC_CTYPE=English_United Kingdom.1252   
+[3] LC_MONETARY=English_United Kingdom.1252 LC_NUMERIC=C                           
+[5] LC_TIME=English_United Kingdom.1252    
+system code page: 65001
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] gridExtra_2.3      corrplot_0.90      ggplot2_3.3.5      multcompView_0.1-8 multcomp_1.4-17   
+ [6] TH.data_1.0-10     survival_3.2-11    mvtnorm_1.1-2      AICcmodavg_2.3-1   MuMIn_1.43.17     
+[11] geiger_2.0.7       ape_5.5            lme4_1.1-27.1      Matrix_1.3-3       MASS_7.3-54       
+[16] car_3.0-11         carData_3.0-4      emmeans_1.6.3     
+
+loaded via a namespace (and not attached):
+ [1] subplex_1.6             nlme_3.1-152            numDeriv_2016.8-1.1     tools_4.1.0            
+ [5] utf8_1.2.1              R6_2.5.1                DBI_1.1.1               colorspace_2.0-2       
+ [9] raster_3.4-13           withr_2.4.2             sp_1.4-5                tidyselect_1.1.1       
+[13] mnormt_2.0.2            phangorn_2.7.1          curl_4.3.2              compiler_4.1.0         
+[17] expm_0.999-6            sandwich_3.0-1          labeling_0.4.2          unmarked_1.1.1         
+[21] scales_1.1.1            quadprog_1.5-8          digest_0.6.27           foreign_0.8-81         
+[25] minqa_1.2.4             rmarkdown_2.16          rio_0.5.27              pkgconfig_2.0.3        
+[29] htmltools_0.5.1.1       plotrix_3.8-2           maps_3.3.0              rlang_0.4.11           
+[33] readxl_1.3.1            rstudioapi_0.13         VGAM_1.1-5              farver_2.1.0           
+[37] generics_0.1.0          zoo_1.8-9               combinat_0.0-8          dplyr_1.0.7            
+[41] zip_2.2.0               magrittr_2.0.1          Rcpp_1.0.7              munsell_0.5.0          
+[45] fansi_0.5.0             abind_1.4-5             lifecycle_1.0.0         scatterplot3d_0.3-41   
+[49] stringi_1.6.2           yaml_2.2.1              clusterGeneration_1.3.7 plyr_1.8.6             
+[53] grid_4.1.0              parallel_4.1.0          forcats_0.5.1           crayon_1.4.1           
+[57] lattice_0.20-44         haven_2.4.3             splines_4.1.0           hms_1.1.0              
+[61] tmvnsim_1.0-2           knitr_1.34              pillar_1.6.2            igraph_1.3.4           
+[65] boot_1.3-28             estimability_1.3        codetools_0.2-18        stats4_4.1.0           
+[69] fastmatch_1.1-0         glue_1.6.2              evaluate_0.14           data.table_1.14.0      
+[73] deSolve_1.28            vctrs_0.3.8             nloptr_1.2.2.2          cellranger_1.1.0       
+[77] gtable_0.3.0            purrr_0.3.4             assertthat_0.2.1        xfun_0.24              
+[81] openxlsx_4.2.4          xtable_1.8-4            phytools_0.7-80         coda_0.19-4            
+[85] tibble_3.1.2            ellipsis_0.3.2         

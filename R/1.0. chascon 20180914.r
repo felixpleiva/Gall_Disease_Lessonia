@@ -142,7 +142,7 @@ b1 = ggplot(pred.mat, aes(x=Month, y=prob)) +
   xlab("Months") + ylab("Predicted probabilities")
 b1
 
-png("../Outputs1.1. Gall prevalence per month.png", height=7, width=9, units="in", res=200)
+png("../Outputs/1.1. Gall prevalence per month.png", height=7, width=9, units="in", res=200)
 grid.arrange(b1,nrow=1)
 dev.off()
 
