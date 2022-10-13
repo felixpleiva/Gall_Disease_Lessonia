@@ -6,12 +6,6 @@
 # Script created by Félix P Leiva on 20180910 (felixpleiva@gmail.com) 
 # Modified by Félix P Leiva on 20221013 (felixpleiva@gmail.com)
 # ------------------------------------------------------------------------------
-# Cite as: 
-# # Murúa P, Patiño DJ, Leiva FP, Muñoz L, Müller DG, Küpper FC,
-# Westermeier R, Peters AF. (2022). Data and code of manuscript: Gall disease in
-# the alginophyte Lessonia berteroana: A pathogenic interaction linked with host
-# adulthood in a seasonal-dependant manner. Zenodo. DOI is coming.
-# ------------------------------------------------------------------------------
 # Cleaning working space
 rm(list=ls())
 # ------------------------------------------------------------------------------
