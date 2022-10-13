@@ -1,4 +1,4 @@
-# Gall disease in _Lessonia berteroana
+# Gall disease in _Lessonia berteroana_
  
 This repository contains code and data needed to reproduce the manuscript: Pedro Murúa, David J Patiño, Félix P Leiva, Liliana Muñoz, Dieter G Müller, Frithjof C Küpper, Renato Westermeier, Akira F Peters (2019). Gall disease in the alginophyte _Lessonia berteroana_: A pathogenic interaction linked with host adulthood in a seasonal-dependant manner. Algal Research 
 
